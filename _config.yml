@@ -2,6 +2,7 @@ name: streetphotography
 favicon: null
 layout_spectrum: 0.3137393796350807
 typography_spectrum: 0.8556497786194086
+title: Street Photography
 cta:
   domain: null
   bucket: null
@@ -16,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.2141469568014145
-  lightness: 0.2128854098264128
-  saturation: 0.2017801571637392
-  rhythmicContrast: 0.9170018185395747
+    - '#eeeeee'
+    - '#bdbdbd'
+    - '#000000'
+    - '#7d7d7d'
+    - '#373737'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.0625
+  rhythmicContrast: 1
 purpose: []
