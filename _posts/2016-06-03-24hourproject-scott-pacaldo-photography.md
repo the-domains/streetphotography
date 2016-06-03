@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'The Book:'
-datePublished: '2016-06-03T13:43:02.263Z'
-dateModified: '2016-06-03T13:41:32.673Z'
+datePublished: '2016-06-03T13:44:08.683Z'
+dateModified: '2016-06-03T13:43:17.010Z'
 title: '#24HourProject - Scott Pacaldo Photography'
 author:
   - name: ''
