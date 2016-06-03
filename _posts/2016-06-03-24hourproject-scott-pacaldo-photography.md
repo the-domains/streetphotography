@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: '24HourProject | Cebu The Book: A photo book edition of my selected photos for the official #24HourProject Cebu Edition. This showcases the streets of Cebu, and a glimpse of the daily Cebu life through photos. The updated version is now in...'
-datePublished: '2016-06-03T13:40:26.555Z'
-dateModified: '2016-06-03T13:39:13.115Z'
+description: 'The Book:'
+datePublished: '2016-06-03T13:43:02.263Z'
+dateModified: '2016-06-03T13:41:32.673Z'
 title: '#24HourProject - Scott Pacaldo Photography'
 author:
   - name: ''
@@ -20,3 +20,14 @@ _type: Article
 
 ---
 <article style=""><h1>#24HourProject - Scott Pacaldo Photography</h1><p>24HourProject | Cebu The Book: A photo book edition of my selected photos for the official #24HourProject Cebu Edition. This showcases the streets of Cebu, and a glimpse of the daily Cebu life through photos. The updated version is now in...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4df5ccce135fccc78c12b49aecd947d21e822c5e.jpg" /></article>
+
+The Book:
+
+A photo book edition of my selected photos for the official \#24HourProject Cebu Edition. This showcases the streets of Cebu, and a glimpse of the daily Cebu life through photos.
+
+The updated version is now in 8x8 format which consists of 24 selected photos, with the 30+ 'Outtake shots' now included. Content and Layout redesigned.
+
+The book is printed on FSC-certified and acid free paper. 88 pages of quality images in Perfect Bound. Magcloud prints the content on 80\# text stock, while the cover is printed on a heavier 80\# cover stock with a satin UV coating.
+
+_The \#24HourProject book serves as a memento of the photographer for his hometown, Cebu.  
+A must-have for Cebuanos, and Photography enthusiasts._
