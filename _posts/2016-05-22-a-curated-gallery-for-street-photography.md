@@ -1,14 +1,16 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-03T13:45:01.464Z'
-dateModified: '2016-05-22T06:25:59.516Z'
-title: ''
-author: []
+datePublished: '2016-06-03T13:53:29.376Z'
+dateModified: '2016-06-03T13:52:50.446Z'
+title: A Curated Gallery for Street Photography
+author:
+  - name: ''
+    url: 'https://thegrid.ai/streetphotography'
 authors: []
 publisher: null
 starred: true
