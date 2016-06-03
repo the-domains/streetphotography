@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: 'The Book:'
-datePublished: '2016-06-03T13:45:44.757Z'
-dateModified: '2016-06-03T13:44:49.581Z'
+datePublished: '2016-06-03T13:47:22.521Z'
+dateModified: '2016-06-03T13:47:11.130Z'
 title: '#24HourProject - Scott Pacaldo Photography'
 author:
   - name: ''
