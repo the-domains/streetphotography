@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The Book:'
-datePublished: '2016-06-03T13:47:22.521Z'
-dateModified: '2016-06-03T13:47:11.130Z'
+datePublished: '2016-06-03T13:53:45.223Z'
+dateModified: '2016-06-03T13:50:25.604Z'
 title: '#24HourProject - Scott Pacaldo Photography'
 author:
   - name: ''
@@ -31,3 +31,7 @@ The book is printed on FSC-certified and acid free paper. 88 pages of quality im
 
 _The \#24HourProject book serves as a memento of the photographer for his hometown, Cebu.  
 A must-have for Cebuanos, and Photography enthusiasts._
+
+_[Read more...][0]_
+
+[0]: http://cargocollective.com/scottpacaldo/24HourProject
